@@ -1,0 +1,35 @@
+{
+  "tone": "calm",
+  "reading_level": "easy",
+  "emotion": "warm",
+  "paragraph": "short",
+  "language": "vi",
+  "word_count_target": "120-220",
+  "hashtags": {
+    "enabled": true,
+    "count_min": 3,
+    "count_max": 5,
+    "placement": "end_of_post_own_line",
+    "avoid": ["#viral", "#xuhuong", "#fyp", "#follow", "#like"]
+  },
+  "avoid": [
+    "motivation",
+    "toxic positivity",
+    "clickbait",
+    "emoji",
+    "bullet points",
+    "hãy",
+    "đừng",
+    "trong cuộc sống",
+    "ai cũng"
+  ],
+  "quality_gate": {
+    "idea_score_min": 90,
+    "judge_score_min": 92,
+    "max_rewrite_attempts": 3
+  },
+  "identity": {
+    "anonymous": true,
+    "platform_priority": ["facebook", "wordpress", "tiktok", "youtube"]
+  }
+}
