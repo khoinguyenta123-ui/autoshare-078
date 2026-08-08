@@ -1,6 +1,8 @@
 {
   "brain": "brain_v2.md",
   "writer": "writer_v1.md",
+  "merge": "merge_v1.md",
+  "humanizer": "humanizer_v1.md",
   "editor": "editor_v1.md",
   "art_director": "art_director_v1.md",
   "judge": "judge_v1.md",
