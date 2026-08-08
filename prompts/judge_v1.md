@@ -88,9 +88,9 @@ Feels like LinkedIn.
 
 Feels like ChatGPT.
 
-Feels like a blog article.
+Feels like a rambling short story with no clear point.
 
-Feels like self-help.
+Missing the direct actionable reframe ending.
 
 Hashtags are missing, generic/spam, or unrelated to the topic.
 

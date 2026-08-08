@@ -1,10 +1,11 @@
 {
-  "tone": "calm",
+  "tone": "direct, warm, plain-spoken",
   "reading_level": "easy",
   "emotion": "warm",
   "paragraph": "short",
   "language": "vi",
-  "word_count_target": "120-220",
+  "word_count_target": "80-150",
+  "style_note": "Bai insight/loi khuyen truc tiep kieu 'hay/dung', KHONG phai van xuoi van hoc an du. Xem 3 vi du mau da duyet: tuong phan nhan thuc (nguoi moi vs bac thay) + ket bai bang cap reframe 'dung hoi X - hay hoi Y'.",
   "hashtags": {
     "enabled": true,
     "count_min": 3,
@@ -13,16 +14,13 @@
     "avoid": ["#viral", "#xuhuong", "#fyp", "#follow", "#like"]
   },
   "avoid": [
-    "motivation",
-    "toxic positivity",
     "clickbait",
-    "emoji",
     "bullet points",
-    "hãy",
-    "đừng",
-    "trong cuộc sống",
-    "ai cũng"
+    "generic filler like 'moi thu deu co ly do cua no'",
+    "empty motivation with no real contrast behind it",
+    "long literary description that delays the point"
   ],
+  "emoji_policy": "0-2 emoji toi da, chi o dau dong hanh dong neu can, khong bat buoc, mac dinh khong dung",
   "quality_gate": {
     "idea_score_min": 90,
     "judge_score_min": 92,
