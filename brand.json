@@ -5,7 +5,8 @@
   "paragraph": "short",
   "language": "vi",
   "word_count_target": "80-150",
-  "style_note": "Bai insight/loi khuyen truc tiep kieu 'hay/dung', KHONG phai van xuoi van hoc an du. Xem 3 vi du mau da duyet: tuong phan nhan thuc (nguoi moi vs bac thay) + ket bai bang cap reframe 'dung hoi X - hay hoi Y'.",
+  "style_note": "Bai insight/loi khuyen truc tiep kieu 'hay/dung', KHONG phai van xuoi van hoc an du. Xem 3 vi du mau da duyet: tuong phan nhan thuc (nguoi moi vs bac thay) + ket bai bang cap reframe 'dung hoi X - hay hoi Y'. Reframe question o cuoi CHINH LA CTA - khong them CTA rieng kieu like/tag.",
+  "content_dna": "Giong van nhat quan qua cac bai: truc tiep, am ap, khong hoa my. Luon mo dau bang cau tuong phan sac, khong throat-clearing. Luon ket bang cap reframe cau hoi. Su nhat quan nay giup thuat toan Facebook 'gan nhan' dung doc gia qua thoi gian.",
   "hashtags": {
     "enabled": true,
     "count_min": 3,
@@ -18,7 +19,8 @@
     "bullet points",
     "generic filler like 'moi thu deu co ly do cua no'",
     "empty motivation with no real contrast behind it",
-    "long literary description that delays the point"
+    "long literary description that delays the point",
+    "engagement bait: 'like neu dong y', 'tag 3 nguoi ban', 'tha tim neu thay dung'"
   ],
   "emoji_policy": "0-2 emoji toi da, chi o dau dong hanh dong neu can, khong bat buoc, mac dinh khong dung",
   "quality_gate": {
