@@ -1,11 +1,11 @@
 {
-  "brain": "brain_v5.md",
-  "writer": "writer_v5.md",
+  "brain": "brain_v6.md",
+  "writer": "writer_v6.md",
   "merge": "merge_v1.md",
   "humanizer": "humanizer_v1.md",
   "editor": "editor_v1.md",
   "art_director": "art_director_v2.md",
   "judge": "judge_v3.md",
-  "image_prompt_generator": "image_prompt_generator_v1.md",
+  "image_prompt_generator": "image_prompt_generator_v2.md",
   "_rule": "NEVER edit an existing vN file in place. To change a prompt: create promptname_vN+1.md in /prompts, then update the corresponding value here to point to the new filename. Old versions stay in the repo forever for rollback and audit."
 }
